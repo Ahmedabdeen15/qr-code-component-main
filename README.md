@@ -14,15 +14,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./image/index.jpg)
+![](images/index.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ahmedabdeen15/qr-code-component-main/tree/main)
-- Live Site URL: [Add live site URL here](https://ahmedabdeen15.github.io/qr-code-component-main/)
+- Solution URL: [github.com/Ahmedabdeen15/qr-code-component-main/tree/main](https://github.com/Ahmedabdeen15/qr-code-component-main/tree/main)
+- Live Site URL: [ahmedabdeen15.github.io/qr-code-component-main/](https://ahmedabdeen15.github.io/qr-code-component-main/)
 
 
 ### Built with
